@@ -1,1 +1,1 @@
-# test2-project
+# jenkins-maven
